@@ -1,0 +1,8 @@
+/Users/hxu/Google Drive/Dev/KaraokeCLI/bin/Debug/netcoreapp1.1/KaraokeCLI.deps.json
+/Users/hxu/Google Drive/Dev/KaraokeCLI/bin/Debug/netcoreapp1.1/KaraokeCLI.runtimeconfig.json
+/Users/hxu/Google Drive/Dev/KaraokeCLI/bin/Debug/netcoreapp1.1/KaraokeCLI.runtimeconfig.dev.json
+/Users/hxu/Google Drive/Dev/KaraokeCLI/obj/Debug/netcoreapp1.1/KaraokeCLI.AssemblyInfo.cs
+/Users/hxu/Google Drive/Dev/KaraokeCLI/bin/Debug/netcoreapp1.1/KaraokeCLI.dll
+/Users/hxu/Google Drive/Dev/KaraokeCLI/bin/Debug/netcoreapp1.1/KaraokeCLI.pdb
+/Users/hxu/Google Drive/Dev/KaraokeCLI/obj/Debug/netcoreapp1.1/KaraokeCLI.dll
+/Users/hxu/Google Drive/Dev/KaraokeCLI/obj/Debug/netcoreapp1.1/KaraokeCLI.pdb
