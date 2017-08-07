@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace CSharpSinger
-{
+
     public static class Singer
     {
         public static void WriteLine(string line)
@@ -21,4 +20,4 @@ namespace CSharpSinger
             Console.WriteLine("");
         }
     }
-}
+

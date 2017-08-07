@@ -35,7 +35,8 @@ public class Recorder{
        		string ValidSongName = null;
 	       	foreach (var song in Album){
 	       		if(song.StartsWith(reqSong)){
-	       			ValidSongName = song;
+	       			Console.WriteLine("Matched to song: " + song);
+				ValidSongName = song;
 	       		}
 	       		else continue;
 	       	}
@@ -45,6 +46,7 @@ public class Recorder{
 	    private string FindSongAddress(string songName){
 	    	string suggestedFileName = songName + ".txt";
 	    	if (File.Exists(suggestedFileName)){
+			Console.WriteLine("Find " + suggestedFileName + " in the library");
 	    		return suggestedFileName;
 	    	}
 	    	else {
